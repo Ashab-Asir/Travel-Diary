@@ -1,6 +1,11 @@
 import React from "react";
+import PageNav from "../components/PageNav";
 
 export default function Product() {
-  const x = 23;
-  return <div>Product</div>;
+  return (
+    <div>
+      <PageNav></PageNav>
+      <h1>product</h1>
+    </div>
+  );
 }
