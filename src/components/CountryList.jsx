@@ -1,7 +1,6 @@
 import React from "react";
 import styles from "./CountryList.module.css";
 import Spinner from "./Spinner";
-import CityItem from "./CityItem";
 import Message from "./Message";
 import CountryItem from "./CountryItem";
 export default function CitList({ cities, isLoading }) {
@@ -23,7 +22,7 @@ export default function CitList({ cities, isLoading }) {
   return (
     <ul className={styles.countryList}>
       {countries.map((country) => (
-        <CountryItem country={country}></CountryItem>
+        <CountryItem country={country} key={country.country}></CountryItem>
       ))}
     </ul>
   );
