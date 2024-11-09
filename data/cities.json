@@ -37,36 +37,14 @@
       "id": "98443197"
     },
     {
-      "id": "7714",
-      "cityName": "Hathazari",
+      "id": "96ec",
+      "cityName": "Sitakund",
       "country": "Bangladesh",
-      "date": "2024-11-09T02:46:33.473Z",
-      "notes": "beautiful",
-      "position": {
-        "lat": "22.500486525427455",
-        "lng": "91.80719737598653"
-      }
-    },
-    {
-      "id": "bc9b",
-      "cityName": "Boalkhali",
-      "country": "Bangladesh",
-      "date": "2024-11-09T02:49:21.681Z",
+      "date": "2024-11-09T03:11:45.814Z",
       "notes": "wow",
       "position": {
-        "lat": "22.363890755956536",
-        "lng": "91.90667454369657"
-      }
-    },
-    {
-      "id": "1e94",
-      "cityName": "Chattogram",
-      "country": "Bangladesh",
-      "date": "2024-11-09T02:55:56.146Z",
-      "notes": "nice",
-      "position": {
-        "lat": "22.356316509258797",
-        "lng": "91.78107250767155"
+        "lat": "22.40016953610486",
+        "lng": "91.75708366637008"
       }
     }
   ]
